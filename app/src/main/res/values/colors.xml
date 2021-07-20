@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="med_blue">#86A2BA</color>
+    <color name="navy_blue">#586A7A</color>
+    <color name="dark_blue">#21282E</color>
+    <color name="grey">#2A333B</color>
+    <color name="dark_grey">#252C33</color>
+    
+    <color name="day_1">#83A1A6</color>
+    <color name="day_2">#386B73</color>
+    <color name="day_3">#C1D9CF</color>
+    <color name="day_4">#DE8E8E</color>
+    <color name="day_5">#A68393</color>
+    <color name="day_6">#F04718</color>
+</resources>
